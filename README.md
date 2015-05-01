@@ -6,7 +6,13 @@ So I got tired of writing a CSV function in every script I was working on, so I 
 
 To use: 
 
-Import the module via “import csv_reader” or “from csv_reader import open_csv, write_csv (you’ll need to copy it into the working directory)
+Import the module via 
+
+    import csv_reader
+
+or 
+
+    from csv_reader import open_csv, write_csv # (you’ll need to copy it into the working directory)
 
 Then you can do something like the following:
 
