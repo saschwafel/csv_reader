@@ -2,7 +2,7 @@
 Module to read and write CSVs using the Python CSV library
 
 # =================================
-So I got tired of writing a CSV function in every script I was working on, so I wrote a Python module that is portable and can be imported into anything. It’s attached here. 
+I got tired of writing a CSV function in every script I was working on, so I wrote a Python module that is portable and can be imported into anything. It’s attached here. 
 
 To use: 
 
